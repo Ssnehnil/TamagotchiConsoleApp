@@ -28,5 +28,9 @@ class TamagotchiTest: XCTestCase {
         //assert
         XCTAssertEqual(tamagotchi.hunger, 0)
     }
+    
+    func testWeightAfterEatingSnack() {
+        
+    }
 
 }
